@@ -16,7 +16,8 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: '部署教程' ,link: '/bushu'},
         ]
       }
     ],
