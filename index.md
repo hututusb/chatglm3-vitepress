@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "ChatGLM3-Vitepress"
+  name: "ChatGLM3-Nofire"
   text: "工业消防安全模型"
   tagline: chatglm3-6b + lora + langchain-chatchat
+  image:
+    src: /background.svg
+    alt: 背景图
   actions:
     - theme: brand
       text: 指南
