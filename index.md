@@ -7,7 +7,7 @@ hero:
   text: "工业消防安全模型"
   tagline: chatglm3-6b + lora + langchain-chatchat
   image:
-    src: /background.svg
+    src: /zhipu.svg
     alt: 背景图
   actions:
     - theme: brand
