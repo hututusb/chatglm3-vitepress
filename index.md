@@ -1,0 +1,25 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "ChatGLM3-Vitepress"
+  text: "工业消防安全模型"
+  tagline: chatglm3-6b + lora + langchain-chatchat
+  actions:
+    - theme: brand
+      text: 指南
+      link: /markdown-examples
+    - theme: alt
+      text: 快速开始
+      link: /api-examples
+
+features:
+  - title: 智能✔
+    details: chatglm3-6b由清华大学EKG实验室联合智谱Ai训练，多项测试中取得较好成绩
+  - title: 开源👏
+    details: 代码开源，拥有强大的社区资源
+  - title: 持续升级🎉
+    details: 未来chatglm支持更新一轮的迭代
+---
+
