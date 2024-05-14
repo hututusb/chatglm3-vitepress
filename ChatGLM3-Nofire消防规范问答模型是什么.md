@@ -6,6 +6,9 @@
 :::success
 Let's Go<br />[快速开始](https://supreme-chainsaw-ww5g75g4wvwf5jv5-5173.app.github.dev/api-examples.html)
 :::
+
+> [!TIP]
+> LLet's GO [快速开始](https://chatglm3.pages.dev/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.html)
 ```
 ![ChatGLM3-Nofire消防规范问答模型是什么？.png](./public/ChatGLM3-Nofire消防规范问答模型是什么？%20(1).png)
 
