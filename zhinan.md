@@ -135,8 +135,6 @@
 - [最佳实践](https://github.com/chatchat-space/Langchain-Chatchat/wiki/%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
 - [自定义](https://github.com/chatchat-space/Langchain-Chatchat/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89)
 
-**导航栏，一切从这里出发**
-<a name="klMNF"></a>
-## 
 
-- [ ] <br />
+
+<br />

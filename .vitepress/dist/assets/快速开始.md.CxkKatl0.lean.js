@@ -1,0 +1,1 @@
+import{_ as a,c as i,o as s,a5 as n}from"./chunks/framework.-Zveb6AF.js";const u=JSON.parse('{"title":"整体方向","description":"","frontmatter":{},"headers":[],"relativePath":"快速开始.md","filePath":"快速开始.md"}'),e={name:"快速开始.md"},p=n("",36),t=[p];function l(r,o,h,d,c,m){return s(),i("div",null,t)}const k=a(e,[["render",l]]);export{u as __pageData,k as default};

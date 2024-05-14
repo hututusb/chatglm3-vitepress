@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "ChatGLM3-Nofire"
-  text: "工业消防安全模型"
+  text: "消防规范问答模型"
   tagline: chatglm3-6b + lora + langchain-chatchat
   image:
     src: /zhipu.svg
@@ -18,11 +18,23 @@ hero:
       link: /api-examples
 
 features:
-  - title: 智能✔
+  - icon: ✔
+    title: 智能
     details: chatglm3-6b由清华大学EKG实验室联合智谱Ai训练，多项测试中取得较好成绩
-  - title: 开源👏
+  - icon: 👏
+    title: 开源
     details: 代码开源，拥有强大的社区资源
-  - title: 持续升级🎉
+  - icon: 🎉
+    title: 持续升级
+    details: 未来chatglm支持更新一轮的迭代
+  - icon: ✔
+    title: 智能
+    details: chatglm3-6b由清华大学EKG实验室联合智谱Ai训练，多项测试中取得较好成绩
+  - icon: 👏
+    title: 开源
+    details: 代码开源，拥有强大的社区资源
+  - icon: 🎉
+    title: 持续升级
     details: 未来chatglm支持更新一轮的迭代
 ---
 

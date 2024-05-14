@@ -9,15 +9,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '指南', link: '/zhinan' },
-      { text: '快速开始', link: '/kuaisukaishi' }
+      { text: '快速开始', link: '/快速开始' }
     ],
 
     sidebar: [
       {
-        text: '快速开始',
+        text: '指南',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
+          { text: 'ChatGLM3-Nofire消防规范问答模型是什么?', link: '/ChatGLM3-Nofire消防规范问答模型是什么' },
+          { text: '快速开始', link: '/快速开始' },
           { text: '部署教程' ,link: '/bushu'},
         ]
       }
