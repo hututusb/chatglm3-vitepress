@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 指南
-      link: /markdown-examples
+      link: /ChatGLM3-Nofire消防规范问答模型是什么
     - theme: alt
       text: 快速开始
-      link: /api-examples
+      link: /快速开始
 
 features:
   - icon: ✔
