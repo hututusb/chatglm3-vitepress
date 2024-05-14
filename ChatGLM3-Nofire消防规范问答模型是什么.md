@@ -1,5 +1,5 @@
 <a name="61a3ec66"></a>
-## 介绍
+# 介绍
 
 **     ChatGLM3-Nofire消防规范问答模型**是我们基于清华大学KEG实验室与智谱AI发布的ChatGLM3系列的**ChatGLM3-6B**模型经过对**消防领域多个专业规范PDF**进行知识抽取构建的**QA问答数据集**多次**Lora微调**得到的**可靠、专业、智能**的问答模型，后续我们会逐步对模型进行优化，敬请期待！
 
@@ -38,35 +38,7 @@
 - 海量复杂的规范体系为建筑设计、建造及管理人员带来了极大的挑战，如何高效的检索、查询和利用消防规范中蕴含的知识和经验已成为当前亟待解决的难题之一。
 - 目前，有关规范仍以传统 PDF 文档、网页等形式存储和管理，检索和利用效率低，已成为消防乃至建筑领域的智能化水平和转型升级的瓶颈。
 
-<!-- <a name="c182e73c"></a>
-## 快速开始
 
-只需二步，轻松搞定SSL证书自动续签。
-
-<a name="1c4d5e8f"></a>
-### 一、安装httpsok
-
-登陆控制台 👉 👉 👉 [**获取token**](https://httpsok.com/?p=4c9n)
-
-```bash
-curl -s https://get.httpsok.com | bash -s 'your token'
-```
-
-安装成功后，脚本会自动检测一次系统中的`nginx`证书，并同步到控制台。
-
-<a name="bd6d413d"></a>
-### 二、DNS解析配置
-
-**根据脚本运行的实际情况**，添对应的的DNS解析记录。[DNS解析配置参考](https://httpsok.com/doc/guide/dns.html)
-
-![](https://httpsok.com/dassets/image-20240314024435126.png#id=j4GJ2&originHeight=444&originWidth=1504&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
-
-<a name="669548cb"></a>
-### 三、完成
-
-没错，已经结束，SSL证书自动续签就这么简单。快登录 [**控制台**](https://httpsok.com/?p=4c9n) 查看自己的证书吧。
-
-![](https://httpsok.com/dassets/image-20240422160902921.png#id=Fki2T&originHeight=1658&originWidth=2878&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=) -->
 
 <a name="4cd514f9"></a>
 ## 问题反馈

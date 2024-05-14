@@ -16,9 +16,11 @@ export default defineConfig({
       {
         text: '指南',
         items: [
+          { text: '项目背景' ,link: '/beijing'},
           { text: 'ChatGLM3-Nofire消防规范问答模型是什么?', link: '/ChatGLM3-Nofire消防规范问答模型是什么' },
           { text: '快速开始', link: '/快速开始' },
-          { text: '部署教程' ,link: '/bushu'},
+          {text:'技术文档', link: '/技术文档' }
+
         ]
       }
     ],
