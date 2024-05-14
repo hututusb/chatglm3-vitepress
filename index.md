@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 指南
-      link: /ChatGLM3-Nofire消防规范问答模型是什么
+      link: /beijing
     - theme: alt
       text: 快速开始
       link: /快速开始
