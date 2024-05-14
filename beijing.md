@@ -25,7 +25,7 @@
 
 
 
-- ![微信图片_20240419212033.png](https://cdn.nlark.com/yuque/0/2024/png/40770342/1713532887077-7c5b7b45-fee4-45c4-b03e-8c760b9045eb.png#averageHue=%231d1f26&clientId=ud8a2223e-5bb6-4&from=paste&height=1019&id=u1db34abb&originHeight=1274&originWidth=2374&originalType=binary&ratio=1.25&rotation=0&showTitle=false&size=558212&status=done&style=none&taskId=ua80c1d4e-8f6b-46eb-8884-1e54b9ca1f6&title=&width=1899.2)
+- ![微信图片_20240419212033.png](./public/1715698767881.png)
 
 
 
