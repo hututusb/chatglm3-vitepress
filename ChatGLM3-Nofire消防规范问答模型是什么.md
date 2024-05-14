@@ -3,9 +3,9 @@
 
 **     ChatGLM3-Nofire消防规范问答模型**是我们基于清华大学KEG实验室与智谱AI发布的ChatGLM3系列的**ChatGLM3-6B**模型经过对**消防领域多个专业规范PDF**进行知识抽取构建的**QA问答数据集**多次**Lora微调**得到的**可靠、专业、智能**的问答模型，后续我们会逐步对模型进行优化，敬请期待！
 
-# :::success
-# Let's Go<br />[快速开始](https://supreme-chainsaw-ww5g75g4wvwf5jv5-5173.app.github.dev/api-examples.html)
-# :::
+#:::success
+#Let's Go<br />[快速开始](https://supreme-chainsaw-ww5g75g4wvwf5jv5-5173.app.github.dev/api-examples.html)
+#::
 
 > [!TIP]
 > LLet's GO [快速开始](https://chatglm3.pages.dev/%E5%BF%AB%E9%80%9F%E5%BC%80%E5%A7%8B.html)
