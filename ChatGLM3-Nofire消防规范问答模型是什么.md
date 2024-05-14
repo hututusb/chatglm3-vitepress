@@ -66,8 +66,11 @@ curl -s https://get.httpsok.com | bash -s 'your token'
 <a name="4cd514f9"></a>
 ## 问题反馈
 
-欢迎大家添加作者微信，共同交流一些技术、想法。
+欢迎加入QQ群，共同交流一些技术、想法, 请备注 `chatglm3-nofire`
 
-作者微信 请备注 `httpsok`
 
-![](https://img-blog.csdnimg.cn/direct/e639420600c243a699e083f28f717a6d.jpeg)
+
+<!-- ![](https://img-blog.csdnimg.cn/direct/e639420600c243a699e083f28f717a6d.jpeg) -->
+
+
+![](./public/qq.jpg)
