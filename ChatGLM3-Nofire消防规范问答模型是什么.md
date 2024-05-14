@@ -7,7 +7,7 @@
 Let's Go<br />[快速开始](https://supreme-chainsaw-ww5g75g4wvwf5jv5-5173.app.github.dev/api-examples.html)
 :::
 ```
-![ChatGLM3-Nofire消防规范问答模型是什么？.png](https://img-blog.csdnimg.cn/direct/4e840706af744ddfa198da7757e6e363.png#pic_center)
+![ChatGLM3-Nofire消防规范问答模型是什么？.png](./public/ChatGLM3-Nofire消防规范问答模型是什么？%20(1).png)
 
 ---
 
