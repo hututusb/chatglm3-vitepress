@@ -8,7 +8,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '指南', link: '/ChatGLM3-Nofire消防规范问答模型是什么' },
+      { text: '指南', link: '/beijing' },
       { text: '快速开始', link: '/快速开始' }
     ],
 
